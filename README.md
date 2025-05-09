@@ -12,7 +12,7 @@ I am a frontend developer who loves react!
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=godot,python,js,html,css,react,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=godot,js,html,css,react)](https://skillicons.dev)
 
 
 ### Socials
