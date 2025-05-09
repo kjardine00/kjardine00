@@ -1,4 +1,4 @@
-Hi 👋 My name is Richard Jardine
+Hi, I'm Kyle 👋
 ================================
 
 Frontend Developer
